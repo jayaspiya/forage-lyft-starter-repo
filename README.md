@@ -31,5 +31,6 @@ There are five car models, each with a different engine-battery combination.
 | Thovex     | Capulet Engine    | Nubbin Battery   |
 
 
-## Draft a new architecture
-Create a new architecture that allows easy extensibility to add new service criteria.
+## UML Architecture
+
+![](./UML_Architecture.png)
